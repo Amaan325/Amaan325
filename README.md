@@ -1,29 +1,40 @@
-👋 About Me
-Hi there! I’m Amaan
-I’m a passionate Full Stack Developer with a strong focus on building clean, responsive, and user-friendly web applications.
+# 👋 About Me
 
-🚀 Tech I Work With
-Languages & Frameworks:
+# Hi there! I’m **Amaan**
 
-JavaScript, React, Node.js, PHP
+I’m a passionate **Full Stack Developer** with a strong focus on building clean, responsive, and user-friendly web applications.
 
-Styling & State Management:
+---
 
-CSS, Redux
+# 🚀 Tech I Work With
 
-Cloud & Services:
+**Languages & Frameworks:**  
+**JavaScript**, **React**, **Node.js**, **PHP**
 
-Firebase, AWS
+**Styling & State Management:**  
+**CSS**, **Redux**
 
-🌟 What I Do
-I primarily work with the MERN stack — MongoDB, Express, React, Node.js — and I love bringing ideas to life with modern web development. I enjoy crafting seamless frontend experiences, building robust backend APIs, and deploying applications to the cloud.
+**Cloud & Services:**  
+**Firebase**, **AWS**
 
-I’m fascinated by cloud technologies and enjoy using Firebase for authentication and real-time databases, and AWS for deploying and scaling apps.
+---
 
-📈 What Drives Me
+# 🌟 What I Do
+
+I primarily work with the **MERN stack** — **MongoDB**, **Express**, **React**, **Node.js** — and I love bringing ideas to life with modern web development.
+
+I enjoy crafting seamless frontend experiences, building robust backend APIs, and deploying applications to the cloud.
+
+---
+
+# 📈 What Drives Me
+
 I love solving real-world problems with code, learning new tools, and pushing myself to grow every day. I’m excited about clean code, great user experience, and building projects that make an impact.
 
-📫 Let’s Connect
-I’m always open to new opportunities and collaborations.
-Thanks for visiting my profile — check out my projects below! 🚀
+---
 
+# 📫 Let’s Connect
+
+I’m always open to new opportunities and collaborations.
+
+**Thanks for visiting my profile — check out my projects below! 🚀**

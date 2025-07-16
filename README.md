@@ -1,4 +1,6 @@
 👋 About Me
+
+
 Hi there! I’m Amaan, a passionate Full Stack Developer with a strong focus on building clean, responsive, and user-friendly web applications.
 
 I primarily work with the MERN stack — JavaScript, React, Node.js, and MongoDB — and I love bringing ideas to life through modern web development. I also have experience with PHP for server-side development, and I enjoy styling beautiful interfaces with CSS and managing complex state with Redux.

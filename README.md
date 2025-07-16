@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 About Me
+Hey there! I’m Amaan, a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).
 
-<!--
-**Amaan325/Amaan325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 I mainly focus on building clean, responsive frontend interfaces with React.
 
-Here are some ideas to get you started:
+☁️ I’m also passionate about cloud technologies and love working with AWS to deploy and scale applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 I enjoy designing end-to-end solutions — from databases to APIs to beautiful UIs.
+
+🚀 Always learning and exploring new tools to build better, faster, and smarter.
+
+Let’s connect and build something awesome together! ⚡
+

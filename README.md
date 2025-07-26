@@ -9,10 +9,10 @@ I’m a passionate **Full Stack Developer** with a strong focus on building clea
 # 🚀 Tech I Work With
 
 **Languages & Frameworks:**  
-**JavaScript**, **React**, **Node.js**, **PHP**
+**JavaScript**, **React**, **Typescript** , **Nextjs** , **Node.js**, **PHP** , **Laravel** , **TailwindCSS** , **MaterialUI** 
 
 **Styling & State Management:**  
-**CSS**, **Redux**
+**Framer Motion** , **CSS**, **Redux**
 
 **Cloud & Services:**  
 **Firebase**, **AWS**
